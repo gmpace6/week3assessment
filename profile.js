@@ -5,7 +5,7 @@ let form3 = document.querySelector('place')
 let form4 = document.querySelector('ritual')
 
 
-form2.addEventListener('hover', (event) => {
+form2.addEventListener('onclick', (event) => {
     event.preventDefault()
     alert('My Favorite Color is RED')
 })
@@ -19,4 +19,3 @@ form4.addEventListener('click', (event) => {
     event.preventDefault()
     alert('My Favorite Ritual is Dinner')
 })
-
