@@ -21,6 +21,14 @@ body {
 	border: 2px solid red;
 }
 
+.bigYellowButton {
+	font-size: xx-large;
+	color: black;
+	background-color: yellow;
+	border: 2px solid black;
+	
+}
+
 nav {
 	border-bottom: 2px solid orange;
 }
