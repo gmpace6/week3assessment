@@ -7,6 +7,20 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.gratuitous-flex-container {
+	font-size: xx-large;
+	background-color: black;
+	border: 3px solid red;
+}
+
+.gratuitous-formatting {
+	font-size: xx-large;
+	background-color: black;
+	color: white;
+	text-align: center;
+	border: 3px solid red;
+}
+
 nav {
 	border-bottom: 2px solid orange;
 }
