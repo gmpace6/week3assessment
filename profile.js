@@ -17,6 +17,6 @@ form3.addEventListener('click', (event) => {
 
 form4.addEventListener('click', (event) => {
     event.preventDefault()
-    alert('My Favorite Ritual is Mexico')
+    alert('My Favorite Ritual is Dinner')
 })
 
