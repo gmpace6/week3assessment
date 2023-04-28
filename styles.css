@@ -7,18 +7,18 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-.gratuitous-flex-container {
-	font-size: xx-large;
-	background-color: black;
-	border: 3px solid red;
+.gratuitous-flex-box {
+	font-size: 2px;
+	background-color: maroon;
+	border: 2px solid red;
 }
 
 .gratuitous-formatting {
-	font-size: xx-large;
+	font-size: 2px;
 	background-color: black;
-	color: white;
+	color: black;
 	text-align: center;
-	border: 3px solid red;
+	border: 2px solid red;
 }
 
 nav {
