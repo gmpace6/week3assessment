@@ -1,11 +1,11 @@
 console.log('Hello World')
 
-let form2 = document.querySelector('color')
-let form3 = document.querySelector('place')
-let form4 = document.querySelector('ritual')
+let form2 = document.querySelector('#color')
+let form3 = document.querySelector('#place')
+let form4 = document.querySelector('#ritual')
 
 
-form2.addEventListener('onclick', (event) => {
+form2.addEventListener('click', (event) => {
     event.preventDefault()
     alert('My Favorite Color is RED')
 })
